@@ -1,0 +1,109 @@
+{
+    "menu": [
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Timbel",
+            "deskripsi": "nasi yang dibungkus dengan daun pisang yang awalnya dibungkus dalam bentuk lonjong.",
+            "harga": 35000,
+            "gambar": "nasi-timbel.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Mie Kocok Bandung",
+            "deskripsi": "hidangan mie yang dimasak dengan aneka isian dari daging atau kikil.",
+            "harga": 33000,
+            "gambar": "mie-kocok-bandung.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nagasari",
+            "deskripsi": "jenis kue basah tradisional yang sangat populer.",
+            "harga": 4000,
+            "gambar": "nagasari.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Colenak",
+            "deskripsi": "jenis kudapan dari tape singkong yang dibakar dan disantap dengan dipaduan gula merah cairdan parutan kelapa.",
+            "harga": 7000,
+            "gambar": "colenak.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Empal Gentong",
+            "deskripsi": "makanan ini mirip dengan gulai dan dimasak menggunakan kayu bakar di dalam gentong.",
+            "harga": 25000,
+            "gambar": "empal-gentong.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Nasi Tutug Oncom",
+            "deskripsi": "terbuat dari nasi yang diaduk dengan oncom goreng atau bakar.",
+            "harga": 28000,
+            "gambar": "nasi-tutug-oncom.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Dodol",
+            "deskripsi": "terbuat dari gula aren, tepung ketan, dan santan kelapa.",
+            "harga": 3500,
+            "gambar": "dodol.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Tahu Gejrot",
+            "deskripsi": "camilan segar terbuat dari potongan tahu goreng dengan ulekan cabai dan kuah asam manis.",
+            "harga": 7000,
+            "gambar": "tahu-gejrot.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Sate Maranggi",
+            "deskripsi": "disajikan dengan acar sambal tomat, sambal oncom, ketan bakar atau nasi timbel.",
+            "harga": 16000,
+            "gambar": "sate-maranggi.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Soto Bandung",
+            "deskripsi": "berbahan daging sapi dengan adanya tambahan lobak, tomat, dan kedelai goreng di dalamnya.",
+            "harga": 12000,
+            "gambar": "soto-bandung.jpg"
+        },
+        {
+            "kategori": "makanan",
+            "nama": "Kupat Tahu",
+            "deskripsi": "potongan ketupat disajikan dengan irisan tahu goreng, tauge, dan bumbu kacang.",
+            "harga": 10000,
+            "gambar": "kupat-tahu.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Bandrek",
+            "deskripsi": "minuman hangat yang terbuat dari bahan utamanya jahe dan gula aren yang ditambah dengan serai.",
+            "harga": 6000,
+            "gambar": "bandrek.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Goyobod",
+            "deskripsi": "berbahan aci atau tepung tapioka sehingga terasa kenyal, ditambahkan potongan roti tawar, pacar cina, tape singkong, serutan daging kelapa.",
+            "harga": 8000,
+            "gambar": "es-goyobod.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Cendol",
+            "deskripsi": "minuman yang mengandung tetesan tepung beras hijau dicampur dengan air gula dan santan.",
+            "harga": 7000,
+            "gambar": "es-cendol.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Es Cincau",
+            "deskripsi": "cincau hijau bisa disajikan bersama sirup gula dan santan.",
+            "harga": 6000,
+            "gambar": "es-cincau.jpg"
+        }
+    ]
+}
