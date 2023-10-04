@@ -18,7 +18,7 @@ Ini adalah proyek website restoran sederhana yang dibangun menggunakan Tailwind 
 
 ## Panduan Instalasi
 
-1. Clone repositori sebagai berikut:
+Clone repositori sebagai berikut:
 
    ```bash
    git clone https://github.com/allfrhmn/waroeng-soenda.git
